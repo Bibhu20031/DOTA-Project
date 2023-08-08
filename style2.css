@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+
+.hello{
+    background-image: url("Rectangle 8.png");
+   
+}
+
+.header{
+    display: block;
+    
+}
+
+.atmos{
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.login{
+    display: flex;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.container {
+    margin-top: 2vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    
+  }
+
+  .centered {
+    font-size: 1.2rem;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .footer{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+  }
+
+
+  .about{
+    margin-top: 10vh;
+    text-align: center;
+    font-size: 1.5rem;
+    color: white;
+  }
+  .para{
+    margin-top: 5px;
+  }
+
+
+
+ 
